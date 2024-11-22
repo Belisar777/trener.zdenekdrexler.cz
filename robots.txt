@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://trener.zdenekdrexler.cz/sitemap.xml
+
+
